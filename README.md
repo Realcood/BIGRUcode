@@ -7,7 +7,7 @@ real_test.py
 model.py 
 <p>현재 사용하고 있는 코드 어떤 모델을 사용하는지 확인 할 수 있음</p>
 fall_bigru_model.pth
-<p>모델링 돌리면 나오는 .pth 파일 모델링을 다시 학습 시킬 때 <strong><지우고 해야함</strong></p>
+<p>모델링 돌리면 나오는 .pth 파일 모델링을 다시 학습 시킬 때 <strong>지우고 해야함</strong></p>
 count_data.py
   <p>현재 데이터 (.csv)의 갯수를 확인할 수 있는 코드</p>
 collect_data.py
